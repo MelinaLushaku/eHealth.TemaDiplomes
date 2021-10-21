@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mednotes4conversation" />
+        <module name="mednotes5Appoinment" />
+        <module name="mednotes2DoctorLogic" />
+        <module name="mednotesSystemManagement" />
+        <module name="mednotes3DemoPatientLogic" />
+        <module name="gateaway-api-service" />
+        <module name="veqprov" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gateaway-api-service" target="1.8" />
+      <module name="gateway-api-service" target="1.8" />
+      <module name="mednotes2DoctorLogic" target="1.8" />
+      <module name="mednotes3DemoPatientLogic" target="1.8" />
+      <module name="mednotes4conversation" target="1.8" />
+      <module name="mednotes5Appoinment" target="1.8" />
+      <module name="mednotesSystemManagement" target="1.8" />
+      <module name="veqprov" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gateaway-api-service" options="-parameters" />
+      <module name="mednotes2DoctorLogic" options="-parameters" />
+      <module name="mednotes3DemoPatientLogic" options="-parameters" />
+      <module name="mednotes4conversation" options="-parameters" />
+      <module name="mednotes5Appoinment" options="-parameters" />
+      <module name="mednotesSystemManagement" options="-parameters" />
+      <module name="veqprov" options="-parameters" />
+    </option>
+  </component>
+</project>

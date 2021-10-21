@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-EurekaServiceDiscovery/eureka-service-discovery/eureka-service-discovery.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-EurekaServiceDiscovery/eureka-service-discovery/eureka-service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-FirstModule/firstModule/firstmodule.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-FirstModule/firstModule/firstmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-FourthModule/fourthModule/fourthmodule.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-FourthModule/fourthModule/fourthmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-GatewayApiService/gateway-api-service/gateway-api-service.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-GatewayApiService/gateway-api-service/gateway-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-SecondModule/secondModule/secondmodule.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-SecondModule/secondModule/secondmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AA-TemaD/TemaD-ThirdModule/thirdModule/thirdmodule.iml" filepath="$PROJECT_DIR$/AA-TemaD/TemaD-ThirdModule/thirdModule/thirdmodule.iml" />
+    </modules>
+  </component>
+</project>

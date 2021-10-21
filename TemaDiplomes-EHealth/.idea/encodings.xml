@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/firstModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/fourthModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/fourthModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/secondModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/secondModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/thirdModule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../E-health(TemaDiplomes)/thirdModule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../eureka-service-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../eureka-service-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gateway-api-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gateway-api-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

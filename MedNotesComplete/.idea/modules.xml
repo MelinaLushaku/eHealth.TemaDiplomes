@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mednotesthirdModule/demo.iml" filepath="$PROJECT_DIR$/../mednotesthirdModule/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eureka-service-discovery/eureka-service-discovery.iml" filepath="$PROJECT_DIR$/../eureka-service-discovery/eureka-service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway-api-service/gateway-api-service.iml" filepath="$PROJECT_DIR$/../gateway-api-service/gateway-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotesfirstModule/mednotes.iml" filepath="$PROJECT_DIR$/../mednotesfirstModule/mednotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotessecondModule/mednotes2.iml" filepath="$PROJECT_DIR$/../mednotessecondModule/mednotes2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotesfourthModule/mednotes4.iml" filepath="$PROJECT_DIR$/../mednotesfourthModule/mednotes4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../medontesfifthModule/medontes5.iml" filepath="$PROJECT_DIR$/../medontesfifthModule/medontes5.iml" />
+    </modules>
+  </component>
+</project>

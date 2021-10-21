@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/TemaD-EurekaServiceDiscovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemaD-FirstModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemaD-FourthModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemaD-GatewayApiService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemaD-SecondModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemaD-ThirdModule" vcs="Git" />
+  </component>
+</project>

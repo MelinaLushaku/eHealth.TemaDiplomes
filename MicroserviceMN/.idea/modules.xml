@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gateway-api-service/gateway-api-service.iml" filepath="$PROJECT_DIR$/../gateway-api-service/gateway-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotessecondModule/mednotes2DoctorLogic.iml" filepath="$PROJECT_DIR$/../mednotessecondModule/mednotes2DoctorLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotesthirdModule/mednotes3DemoPatientLogic.iml" filepath="$PROJECT_DIR$/../mednotesthirdModule/mednotes3DemoPatientLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotesfourthModule/mednotes4conversation.iml" filepath="$PROJECT_DIR$/../mednotesfourthModule/mednotes4conversation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../medontesfifthModule/mednotes5Appoinment.iml" filepath="$PROJECT_DIR$/../medontesfifthModule/mednotes5Appoinment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mednotesfirstModule/mednotesSystemManagement.iml" filepath="$PROJECT_DIR$/../mednotesfirstModule/mednotesSystemManagement.iml" />
+    </modules>
+  </component>
+</project>
